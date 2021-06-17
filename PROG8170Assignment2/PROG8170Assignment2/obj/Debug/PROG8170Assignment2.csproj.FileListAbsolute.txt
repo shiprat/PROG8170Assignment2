@@ -1,0 +1,7 @@
+D:\Software\PROG8170Assignment2\PROG8170Assignment2\obj\Debug\PROG8170Assignment2.csprojAssemblyReference.cache
+D:\Software\PROG8170Assignment2\PROG8170Assignment2\obj\Debug\PROG8170Assignment2.csproj.CoreCompileInputs.cache
+D:\Software\PROG8170Assignment2\PROG8170Assignment2\bin\Debug\PROG8170Assignment2.exe.config
+D:\Software\PROG8170Assignment2\PROG8170Assignment2\bin\Debug\PROG8170Assignment2.exe
+D:\Software\PROG8170Assignment2\PROG8170Assignment2\bin\Debug\PROG8170Assignment2.pdb
+D:\Software\PROG8170Assignment2\PROG8170Assignment2\obj\Debug\PROG8170Assignment2.exe
+D:\Software\PROG8170Assignment2\PROG8170Assignment2\obj\Debug\PROG8170Assignment2.pdb
