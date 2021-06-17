@@ -64,25 +64,6 @@ namespace PROG8170Assignment2
         public int getArea() {
             return this.length * this.width;
         }
-        /*
-        public int GetArea()
-        {
-            /*Console.WriteLine("Enter breadth of rectangle : ");
-            breadth = Convert.ToInt32(Console.ReadLine());
-            int area = length * width;
-            Console.WriteLine("\nArea of rectangle: " + area);
-            return (area);
-        }
-
-        public void GetPerimeter(int length, int breadth)
-        {
-            Console.WriteLine("Enter length of rectangle : ");
-            length = Convert.ToInt32(Console.ReadLine());
-
-            Console.WriteLine("Enter breadth of rectangle : ");
-            breadth = Convert.ToInt32(Console.ReadLine());
-            int perimeter = 2*(length + breadth);
-            Console.WriteLine("\nPerimeter of rectangle: " + perimeter);
-        }*/
+       
     }}
 
